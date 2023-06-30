@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/santanu/Official/Project/nodejs/NodeVrStack/src/logs/.b244bd43ff51f9865a7b3ece135b307838b89266-audit.json",
+    "files": [
+        {
+            "date": 1688106055499,
+            "name": "/home/santanu/Official/Project/nodejs/NodeVrStack/src/logs/error.log..06--Fr-2023",
+            "hash": "2190dd2aa5da89f64399e9789cfa2d835620d7445b48ed73f5aee64efcf83da3"
+        }
+    ],
+    "hashType": "sha256"
+}

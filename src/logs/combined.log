@@ -1,0 +1,25 @@
+2023-06-30T05:44:57.564Z - info: listening on port 8091
+2023-06-30T05:51:04.116Z - info: listening on port 8091
+2023-06-30T05:53:53.348Z - info: listening on port 8091
+2023-06-30T05:54:49.675Z - info: listening on port 8091
+2023-06-30T05:59:32.474Z - info: listening on port 8091
+2023-06-30T06:00:02.183Z - info: listening on port 8091
+2023-06-30T06:00:21.701Z - info: undefined
+2023-06-30T06:00:46.859Z - info: listening on port 8091
+2023-06-30T06:00:50.239Z - info: undefined
+2023-06-30T06:02:28.521Z - info: listening on port 8091
+2023-06-30T06:02:34.755Z - info: listening on port 8091
+2023-06-30T06:02:39.274Z - error: Public error to share
+2023-06-30T06:03:06.732Z - info: listening on port 8091
+2023-06-30T06:03:08.981Z - error: health check
+2023-06-30T06:03:37.910Z - info: listening on port 8091
+2023-06-30T06:03:42.484Z - error: health check,test1,test2
+2023-06-30T06:04:27.791Z - info: listening on port 8091
+2023-06-30T06:04:30.940Z - error: health check,test1,test2,dddddd
+2023-06-30T06:05:01.371Z - info: listening on port 8091
+2023-06-30T06:05:04.096Z - error: health check,test1,test2,[object Object]
+2023-06-30T06:06:19.498Z - info: listening on port 8091
+2023-06-30T06:06:25.014Z - info: listening on port 8091
+2023-06-30T06:06:28.070Z - info: health check,test1,test2,[object Object]
+2023-06-30T06:06:55.730Z - info: listening on port 8091
+2023-06-30T06:08:46.103Z - info: listening on port 8091
